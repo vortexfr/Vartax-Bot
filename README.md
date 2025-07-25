@@ -30,8 +30,9 @@ Le bot complet est disponible en téléchargement :
 
 ```bash
 git clone https://github.com/ton-utilisateur/Vartax-Bot.git
+```
 cd Vartax-Bot
-Installer les dépendances :
+## Installer les dépendances :
 
 bash
 Copier
@@ -40,7 +41,9 @@ npm install
 Dans le dossier data/config.json, mettre votre token Discord.
 Le token est à récupérer ici : https://discord.com/developers/applications
 
-Lancer le bot :
+---
+
+## Lancer le bot :
 
 bash
 Copier
@@ -55,4 +58,3 @@ Modifier
 
 ---
 
-✅ C’est **ta version d’origine**, **structurée proprement pour GitHub**, sans trop en faire.
