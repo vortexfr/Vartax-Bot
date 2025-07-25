@@ -52,9 +52,6 @@ node index.js
 Développé avec passion par D-Vartax pour la Nova Community
 🕹️ Discord : vartax0086
 
-yaml
-Copier
-Modifier
 
 ---
 
