@@ -15,7 +15,6 @@ Le bot complet est disponible en téléchargement :
 ## ⚙️ Fonctionnalités principales
 
 - 🎫 Système de tickets (support)
-- 🧾 Commandes de modération (ban, kick, mute…)
 - 🎉 Mini-jeux et interactions
 - 💰 Système d'économie (coins, récompenses…)
 - 📊 XP & niveau pour les membres
