@@ -14,27 +14,45 @@ Le bot complet est disponible en téléchargement :
 
 ## ⚙️ Fonctionnalités principales
 
-- 🎫 **Système de Tickets** (support)
-- 🧾 **Commandes de modération** (ban, kick, mute…)
-- 🎉 **Mini-jeux et interactions**
-- 💰 **Système d'économie (coins, récompenses…)**
-- 📊 **XP & niveau pour les membres**
-- 🛡️ **Protection anti-spam et gestion des liens**
-- 🧠 **Personnalisation facile et intuitive**
+- 🎫 Système de tickets (support)
+- 🧾 Commandes de modération (ban, kick, mute…)
+- 🎉 Mini-jeux et interactions
+- 💰 Système d'économie (coins, récompenses…)
+- 📊 XP & niveau pour les membres
+- 🛡️ Protection anti-spam et gestion des liens
+- 🧠 Personnalisation facile et intuitive
 
 ---
 
 ## 🚀 Installation locale
 
-1. Clone le dépôt :
+1. Cloner le dépôt :
 
 ```bash
 git clone https://github.com/ton-utilisateur/Vartax-Bot.git
-```
 cd Vartax-Bot
+Installer les dépendances :
+
+bash
+Copier
+Modifier
 npm install
-dans le dossier data/config.json
-mettre votre token :  https://discord.com/developers/applications
+Dans le dossier data/config.json, mettre votre token Discord.
+Le token est à récupérer ici : https://discord.com/developers/applications
+
+Lancer le bot :
+
+bash
+Copier
+Modifier
 node index.js
 Développé avec passion par D-Vartax pour la Nova Community
 🕹️ Discord : vartax0086
+
+yaml
+Copier
+Modifier
+
+---
+
+✅ C’est **ta version d’origine**, **structurée proprement pour GitHub**, sans trop en faire.
