@@ -1,0 +1,2 @@
+# Vartax-Bot
+Bot discord
